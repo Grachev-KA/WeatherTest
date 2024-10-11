@@ -52,9 +52,9 @@ The API key is already embedded within the project, so no additional configurati
 The project was completed in **24 working hours**.
 
 ## Screenshots
-<img src="![IMG_948BEE313E16-1](https://github.com/user-attachments/assets/a05a1fd5-620f-48af-98ee-1a0af83294e2)" width="300">
-<img src="![IMG_948BEE313E16-2](https://github.com/user-attachments/assets/f2ce61b3-42a2-4582-bd86-0d019f5ae1e9)" width="300">
-<img src="![IMG_948BEE313E16-3](https://github.com/user-attachments/assets/387b4821-d938-48f1-97ac-6bfcfd3ca0ba)" width="300">
+<img src="https://github.com/user-attachments/assets/a05a1fd5-620f-48af-98ee-1a0af83294e2" width="300">
+<img src="https://github.com/user-attachments/assets/f2ce61b3-42a2-4582-bd86-0d019f5ae1e9" width="300">
+<img src="https://github.com/user-attachments/assets/387b4821-d938-48f1-97ac-6bfcfd3ca0ba" width="300">
 
 ## Future Improvements
 
